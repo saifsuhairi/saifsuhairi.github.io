@@ -31,37 +31,6 @@ As an instructional designer, I collaborate closely with organizational leaders 
 which were the number of advertisements that were rejected, suspended agency accounts due to excessive violations, 
 [Link to another page](./another-page.html).
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-
-### There's a horizontal rule below this.
-
-
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 
 ### Small image
 
