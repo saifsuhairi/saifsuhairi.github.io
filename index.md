@@ -18,6 +18,7 @@ Example 1:
 
 >[Read more about this project here](./another-page.html).
 
+
 Example 2:
 >The bi-weekly onboarding program for new employees contained a 1-hour recorded training session that resulted in an average of 70% satisfaction score. With some video editing, I managed to raise the satisfaction score to 90% by chunking the video into several parts, removing unnecessary sections and examples that were only applicable to a "live" setting, identifying the topics, and adding visuals and subtitles.
 
