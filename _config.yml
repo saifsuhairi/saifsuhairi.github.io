@@ -5,3 +5,5 @@ description: Saif's Instructional Design Portfolio
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
