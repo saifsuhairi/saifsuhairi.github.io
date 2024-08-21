@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Hi, I'm Saif!
->I am an instructional designer with 5 years of experience in bridging learning gaps by creating tailored learning solutions, immersive experiences, and measurable outcomes aligned with business objectives.
+>I am an **instructional designer with 5 years of experience** in bridging learning gaps by creating tailored learning solutions, immersive experiences, and measurable outcomes aligned with business objectives.
 
 If you're interested with what I have to offer, continue reading!
 * * *
